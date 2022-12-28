@@ -221,6 +221,7 @@
     Statement(s);
     Break;
     }
+    ```
 
     ```c
     #include <stdio.h>
