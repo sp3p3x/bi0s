@@ -223,6 +223,8 @@
     }
     ```
 
+    example:
+
     ```c
     #include <stdio.h>
 
@@ -292,5 +294,41 @@
       printf("this will get executed");
 
       return 0;
+    }
+    ```
+
+## Functions:
+
+  - Creating a new function:
+
+    syntax:
+
+    ```
+    returnType functionName (parameters){
+      logic
+    }
+    ```
+
+    example:
+
+    ```c
+    void foobar() {
+      printf("Hello world");
+    }
+    ```
+
+  - Calling a function:
+
+    syntax:
+
+    ```
+    functionName(arguments);
+    ```
+
+    example:
+
+    ```c
+    int main() {
+      foobar(); // function call
     }
     ```
