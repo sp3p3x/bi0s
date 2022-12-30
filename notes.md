@@ -332,3 +332,83 @@
       foobar(); // function call
     }
     ```
+
+## Pointers:
+
+  - Declaration:
+
+    syntax:
+
+    ```c
+    type *pName;
+    ```
+  
+    example:
+
+    ```c
+    int *foobar;
+    ```
+  
+  - Assignation:
+
+    syntax:
+
+    ```c
+    pName = &variableName;
+    ```
+
+    example:
+
+    ```c
+    foobar = &marks;
+    ```
+
+## Structures:
+
+  ### Structures can be used to group items of different types.
+
+  - Declaration:
+
+      syntax:
+
+      ```c
+      struct structTag {
+        dataType varName; // each variables are called members
+        dataType varName;
+        .
+        .
+      }
+      ```
+
+      example:
+
+      ```c
+      struct school {
+        int studentNumber;
+        int staffNumber;
+        char grade;
+      }
+      ```
+
+  - Assignation:
+
+    syntax:
+
+      ```c
+      struct structTag structName;
+
+      structName.variable1=value;
+      structName.variable2=value;
+      ```
+    
+    example:
+
+      ```c
+      struct school school1;
+
+      school1.studentNumber = 400;
+      school1.staffNumber = 200;
+      school1.grade = 'B';
+      ```
+
+
