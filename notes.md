@@ -411,4 +411,24 @@
       school1.grade = 'B';
       ```
 
+## Objects / Classes:
 
+- ### Object is an instance of a Class. When a class is defined, no memory is allocated but when it is instantiated (i.e. an object is created) memory is allocated.
+
+ - Declaration of a class:
+
+    syntax:
+
+      ```c
+      class className { 
+        accessSpecifier; // private | public | protected
+        dataMember; // variables to be used
+        dataMember;
+        .
+        .
+        memberFunction(){} // methods
+        memberFunction(){}
+        .
+        .
+      };
+      ```

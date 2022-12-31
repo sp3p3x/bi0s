@@ -1,3 +1,24 @@
+# Day 3 
+
+## 30/12/2022
+
+### **Done**
+Completed few more levels of Bandit OverTheWire. Continued with C Lang Assignments in bi0s wiki. Couldn't complete more since i was travelling back home.
+
+### **Todo**
+Complete C lang Assignments. Complete Bandit OverTheWire.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://overthewire.org/wargames/bandit
+- https://wiki.bi0s.in/reversing/c-lang/
+
+### **Notes**
+- https://github.com/sp3p3x/BanditOverTheWire/blob/main/solution.md
+- https://github.com/sp3p3x/bi0s/blob/main/notes.md
+
 # Day 2
 
 ## 29/12/2022
