@@ -16,7 +16,7 @@ Continue with binary exploitation. Finish reversing and bandit overthewire.
 - https://www.programiz.com/c-programming/c-file-input-output 
 
 ### **Notes**
-- 
+- https://github.com/sp3p3x/bi0s/blob/main/notes.md
 
 # Day 4
 
