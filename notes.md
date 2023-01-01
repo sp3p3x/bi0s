@@ -419,3 +419,62 @@
     - https://stackoverflow.com/questions/40441612/difference-between-variable-and-data-object-in-c-language
     - https://port70.net/~nsz/c/c11/n1570.html#3.15
     - https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/
+
+## File I/O:
+
+- ### 'FILE' pointer type is used
+
+  - syntax:
+    ```c
+    FILE *filePointer;
+    ```
+
+- ### fopen() in stdio.h is used to open a file
+  - syntax:
+    ```c
+    filePointer = fopen("filepath","mode");
+    ```
+
+- ### fclose() in stdio.h is used to close a file
+  -syntax:
+    ```c
+    fclose(filePointer);
+    ```
+
+  ### Ref:
+  - https://www.programiz.com/c-programming/c-file-input-output
+
+## Recursion:
+
+ - ### Example: To find the factorial of a number using recursion
+
+    ```c
+    #include<stdio.h>
+
+    long int fact(int n) {
+        if (n>=1)
+            return n*fact(n-1);
+        else
+            return 1;
+    }
+
+    int main() {
+        int n=10;
+        printf("Factorial = %ld", fact(n));
+        return 0;
+    }
+    ```
+
+
+<br>
+
+# **Ref**
+
+- https://wiki.bi0s.in
+- https://www.quora.com/What-is-an-object-in-C
+- https://stackoverflow.com/questions/40441612/difference-between-variable-and-data-object-in-c-language
+- https://port70.net/~nsz/c/c11/n1570.html#3.15
+- https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/
+- https://overthewire.org/wargames/bandit
+- https://www.educba.com/control-statements-in-c/
+- https://www.programiz.com/c-programming/c-file-input-output 

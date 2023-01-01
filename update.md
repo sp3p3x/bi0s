@@ -1,3 +1,23 @@
+# Day 5
+
+## 01/01/2023
+
+### **Done**
+Finished C lang assignments. Started looking into binary exploitaion.
+
+### **Todo**
+Continue with binary exploitation. Finish reversing and bandit overthewire.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://wiki.bi0s.in/reversing/c-lang/
+- https://www.programiz.com/c-programming/c-file-input-output 
+
+### **Notes**
+- 
+
 # Day 4
 
 ## 31/12/2022
