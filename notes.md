@@ -411,24 +411,11 @@
       school1.grade = 'B';
       ```
 
-## Objects / Classes:
+## Objects:
 
-- ### Object is an instance of a Class. When a class is defined, no memory is allocated but when it is instantiated (i.e. an object is created) memory is allocated.
+  - Reference:
 
- - Declaration of a class:
-
-    syntax:
-
-      ```c
-      class className { 
-        accessSpecifier; // private | public | protected
-        dataMember; // variables to be used
-        dataMember;
-        .
-        .
-        memberFunction(){} // methods
-        memberFunction(){}
-        .
-        .
-      };
-      ```
+    - https://www.quora.com/What-is-an-object-in-C
+    - https://stackoverflow.com/questions/40441612/difference-between-variable-and-data-object-in-c-language
+    - https://port70.net/~nsz/c/c11/n1570.html#3.15
+    - https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/
