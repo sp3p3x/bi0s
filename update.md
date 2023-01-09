@@ -1,3 +1,142 @@
+
+# Day 12
+
+## 08/01/2023
+
+### **Done**
+Tried out more challenges from Irisctf. 
+
+### **Todo**
+Finish web category of the 4 week challenge by tomorrow.
+
+### **Challenges faced**
+- The challenges were a bit tough and found some difficulty in getting started.
+
+### **Resources**
+- https://2023.irisc.tf/
+
+<br>
+
+# Day 11
+
+## 07/01/2023
+
+### **Done**
+Did irisctf challenges. Solved 'Name that song' challenge. Tried out several other challenges.
+
+### **Todo**
+Try to solve the other challenges.
+
+### **Challenges faced**
+- Found it tough to get started in most of the challenges.
+
+### **Resources**
+- https://2023.irisc.tf/
+- https://2023.irisc.tf/challenge?id=18
+
+<br>
+
+# Day 10
+
+## 06/01/2023
+
+### **Done**
+Finished XSS. Completed few challenges in XSS. 
+
+### **Todo**
+Do more XSS Challenges and finish SQL Injection.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://www.youtube.com/watch?v=EoaDgUgS6QA
+- https://www.youtube.com/watch?v=2OPVViV-GQk
+- https://xss.pwnfunction.com
+- https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
+
+<br>
+
+# Day 9
+
+## 05/01/2023
+
+### **Done**
+Learned Reflected XSS. Read more about other types of XSS.
+
+### **Todo**
+Finish other types of XSS.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://portswigger.net/web-security/cross-site-scripting/reflected
+
+<br>
+
+# Day 8
+
+## 04/01/2023
+
+### **Done**
+Read about other XSS types. Watched the provided yt vid.
+
+### **Todo**
+Learn about other types of XSS.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://wiki.bi0s.in/web/sql/
+- https://xss.pwnfunction.com
+- https://www.youtube.com/watch?v=EoaDgUgS6QA
+- https://www.youtube.com/watch?v=2OPVViV-GQk
+- https://portswigger.net/web-security/cross-site-scripting
+
+
+<br>
+
+# Day 7
+
+## 03/01/2023
+
+### **Done**
+Got a basic understanding of xss and sql injection. Tried out some challenges in XSS game.
+
+### **Todo**
+Do the challenges from web exploitation and learn more of xss and sql injection.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://wiki.bi0s.in/web/sql/
+- https://xss.pwnfunction.com
+- https://www.youtube.com/watch?v=EoaDgUgS6QA
+- https://www.youtube.com/watch?v=2OPVViV-GQk
+
+<br>
+
+# Day 6
+
+## 02/01/2023
+
+### **Done**
+Started with web category of the 4 week challenge. Read about xss.
+
+### **Todo**
+Learn XSS and SQL injection.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://portswigger.net/web-security/cross-site-scripting
+
+<br>
+
 # Day 5
 
 ## 01/01/2023
@@ -29,7 +168,7 @@ Got a basic understanding of objects in C and procedural programming languages.
 Continue with C lang assignments and do more levels of bandit overthewire.
 
 ### **Challenges faced**
-Got confused between objects in and OOP objects.
+Got confused between objects in C and OOP objects.
 
 ### **Resources**
 - https://wiki.bi0s.in/reversing/c-lang/
