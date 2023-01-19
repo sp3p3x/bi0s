@@ -1,3 +1,132 @@
+# Day 22
+
+## 18/01/2023
+
+### **Done**
+Finished stack overflow basics. Read ret2libc bi0s wiki and started with Shellcode.
+
+### **Todo**
+Finish ret2libc.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://wiki.bi0s.in/pwning/return2libc/return-to-libc/
+
+<br>
+
+# Day 21
+
+## 17/01/2023
+
+### **Done**
+Read stack overflow basics and ret2libc bi0s wiki.
+
+### **Todo**
+Finish stack overflow basics.
+
+### **Challenges faced**
+Found some difficutly in understanding the concepts.
+
+### **Resources**
+- https://wiki.bi0s.in/pwning/return2libc/return-to-libc/
+
+<br>
+
+# Day 20
+
+## 16/01/2023
+
+### **Done**
+Watched more of liveoverflow vids. Read bi0s wiki.
+
+### **Todo**
+Finish reading stack overflow bi0s wiki.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+- https://wiki.bi0s.in/pwning/stack-overflow/smash-the-stack/
+
+<br>
+
+# Day 19
+
+## 15/01/2023
+
+### **Done**
+Played Ugra CTF and tried to solve more challenges.
+
+### **Todo**
+Finish buffer overflow and start with shellcoding.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://q.2023.ugractf.ru
+
+<br>
+
+# Day 18
+
+## 14/01/2023
+
+### **Done**
+Played Ugra CTF. Solved a CTB challenge (Evidence of bullying).
+
+### **Todo**
+Try and solve more challenges in the CTF.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://q.2023.ugractf.ru
+
+<br>
+
+# Day 17
+
+## 13/01/2023
+
+### **Done**
+Watched some liveoverflow videos on buffer overflow.
+
+### **Todo**
+Watch more vids from liveoverflow to get better understanding.
+
+### **Challenges faced**
+\-
+
+### **Resources**
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+<br>
+
+# Day 16
+
+## 12/01/2023
+
+### **Done**
+Read stack overflow from bi0s wiki and CTF wiki..
+
+### **Todo**
+Finish stack overflow.
+
+### **Challenges faced**
+Found some difficulty in understsanding the concepts.
+
+### **Resources**
+- https://ctf-wiki.mahaloz.re/pwn/linux/stackoverflow/stackoverflow-basic/
+- https://wiki.bi0s.in/pwning/intro/
+
+
+<br>
+
 # Day 15
 
 ## 11/01/2023
