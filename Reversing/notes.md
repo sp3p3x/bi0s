@@ -167,3 +167,43 @@ int foo()
 ```
 
 [Ref](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap?rq=1)
+
+## More about stack
+
+Here's the full list of x86 registers.  The 64 bit registers are shown in red.  "Scratch" registers any function is allowed to overwrite, and use for anything you want without asking anybody.  "Preserved" registers have to be put back ("save" the register) if you use them.
+
+![image](assets/register_1.png)
+
+For example, this loads 3 into rax and returns.  It's a kinda roundabout way to return a 3, but it lets you use rax for something else until you need it.
+
+```
+push 3
+pop rax
+ret
+```
+
+For a more complicated example, this loads 23 into rax, and then 17 into rcx:
+
+```
+push 17
+push 23
+pop rax
+pop rcx
+ret
+```
+
+After the first "push", the stack just has one value:
+
+    17
+
+After the second "push", the stack has two values:
+
+    17  23
+
+So the first "pop" picks up the 23, and puts it in rax, leaving the stack with one value:
+
+    17
+
+The second "pop" picks up that value, puts it in rcx, leaving the stack clean.  If the stack was not clean, everything actually works fine except "ret", which jumps to whatever is on the top of the stack. 
+
+[Ref](https://www.cs.uaf.edu/2015/fall/cs301/lecture/09_16_stack.html)
